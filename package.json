@@ -1,0 +1,11 @@
+{
+  "name": "re-reddit",
+  "version": "1.0.0",
+  "description": "Reddit Search App",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Matt Senko",
+  "license": "ISC"
+}
