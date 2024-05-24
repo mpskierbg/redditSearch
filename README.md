@@ -1,5 +1,5 @@
 # Re-Reddit
-<b>Re-Reddit is an application that harnesses the power of the Reddit API to search Reddit and retrieve results efficiently. Whether you're hunting for specific posts, comments, or subreddits, Re-Reddit provides a simple and intuitive interface to streamline your Reddit browsing experience.</b>
+<b>Re-Reddit is a react app that harnesses the power of the Reddit API to search Reddit and retrieve results efficiently.</b>
 
 <h3>Features:</h3>
 <ul>
